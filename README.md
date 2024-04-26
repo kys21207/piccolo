@@ -65,5 +65,3 @@ For every input locus, for every gene and tissue combination, a new row will be 
 	We are currently performing analyses to determine if this is a proper cutoff when using PICCOLO.
 Tip - The CSV output can be opened in EXCEL which allows for easy filtering of results.
 
-## Wiki page
-[PICCOLO Wiki page](https://myconnect.gsk.com/sites/genetics/GeneticsWIKI/Wiki%20Pages/
